@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.idcard {
+  display: flex;
+}
+
+.boxcolor{
+  height: 20rem;
+  width: 100%;
+}
